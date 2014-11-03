@@ -7,7 +7,7 @@
 ;  Originally kept adding the same the same lines, specifically a bug, when the cursor left focus of the window
 ;  Then I made the active_wnd check, tried to expand, then nothing works, and I toggled every if, adjusted every SleepTimer. 
 ;
-;   AHK sometimes....
+;   AHK sometimes.... It was perfect, then, it broke when I most needed it.
 ;
 
 
