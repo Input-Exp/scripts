@@ -9,5 +9,9 @@ If I saw this years ago... otherwise I need to use COM() .
 [Someone else rambling](http://delphihaters.blogspot.ca/2011/04/qa-dept-one-infinite-fruity-loop-part-i.html)
 
 
-I hope I can sell my idea.
+I hope I can sell my idea (Something music business).
 
+
+Hit and miss no? Try it.
+
+[irl dunno=rtl or anything](http://www.w3.org/TR/i18n-html-tech-bidi/) 
